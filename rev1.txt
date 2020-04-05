@@ -1,0 +1,6 @@
+Add another file to test commit. 
+
+
+Did more revision to check git commit amend. 
+
+Add more stuff based on the feedback of review. 
